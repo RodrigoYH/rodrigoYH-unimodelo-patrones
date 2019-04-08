@@ -1,0 +1,15 @@
+C:\Users\rodri\Desktop\tareas 2do parcial\WPFBasics\WPFBasics\bin\Debug\WPFBasics.exe.config
+C:\Users\rodri\Desktop\tareas 2do parcial\WPFBasics\WPFBasics\bin\Debug\WPFBasics.exe
+C:\Users\rodri\Desktop\tareas 2do parcial\WPFBasics\WPFBasics\bin\Debug\WPFBasics.pdb
+C:\Users\rodri\Desktop\tareas 2do parcial\WPFBasics\WPFBasics\obj\Debug\WPFBasics.csprojAssemblyReference.cache
+C:\Users\rodri\Desktop\tareas 2do parcial\WPFBasics\WPFBasics\obj\Debug\MainWindow.g.cs
+C:\Users\rodri\Desktop\tareas 2do parcial\WPFBasics\WPFBasics\obj\Debug\App.g.cs
+C:\Users\rodri\Desktop\tareas 2do parcial\WPFBasics\WPFBasics\obj\Debug\WPFBasics_MarkupCompile.cache
+C:\Users\rodri\Desktop\tareas 2do parcial\WPFBasics\WPFBasics\obj\Debug\WPFBasics_MarkupCompile.lref
+C:\Users\rodri\Desktop\tareas 2do parcial\WPFBasics\WPFBasics\obj\Debug\MainWindow.baml
+C:\Users\rodri\Desktop\tareas 2do parcial\WPFBasics\WPFBasics\obj\Debug\WPFBasics.g.resources
+C:\Users\rodri\Desktop\tareas 2do parcial\WPFBasics\WPFBasics\obj\Debug\WPFBasics.Properties.Resources.resources
+C:\Users\rodri\Desktop\tareas 2do parcial\WPFBasics\WPFBasics\obj\Debug\WPFBasics.csproj.GenerateResource.cache
+C:\Users\rodri\Desktop\tareas 2do parcial\WPFBasics\WPFBasics\obj\Debug\WPFBasics.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\tareas 2do parcial\WPFBasics\WPFBasics\obj\Debug\WPFBasics.exe
+C:\Users\rodri\Desktop\tareas 2do parcial\WPFBasics\WPFBasics\obj\Debug\WPFBasics.pdb

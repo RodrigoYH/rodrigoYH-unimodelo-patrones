@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFBasics", "WPFBasics\WPFBasics.csproj", "{6A0FBA37-3F74-4C96-AFFB-CE0ECDD6B5C7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFBasics", "WPFBasics\WPFBasics.csproj", "{88A1BC79-412D-4874-9DA6-4875B9FC00BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6A0FBA37-3F74-4C96-AFFB-CE0ECDD6B5C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6A0FBA37-3F74-4C96-AFFB-CE0ECDD6B5C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6A0FBA37-3F74-4C96-AFFB-CE0ECDD6B5C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6A0FBA37-3F74-4C96-AFFB-CE0ECDD6B5C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88A1BC79-412D-4874-9DA6-4875B9FC00BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88A1BC79-412D-4874-9DA6-4875B9FC00BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88A1BC79-412D-4874-9DA6-4875B9FC00BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88A1BC79-412D-4874-9DA6-4875B9FC00BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {FD51ACD0-CC48-444D-8051-E5127122C484}
+		SolutionGuid = {E63B1F16-E40C-4277-93F5-831D1A3EAEF8}
 	EndGlobalSection
 EndGlobal
