@@ -1,0 +1,14 @@
+C:\Users\rodri\Desktop\tareas 2do parcial\WpfElementsTree\WpfElementsTree\bin\Debug\WpfElementsTree.exe.config
+C:\Users\rodri\Desktop\tareas 2do parcial\WpfElementsTree\WpfElementsTree\bin\Debug\WpfElementsTree.exe
+C:\Users\rodri\Desktop\tareas 2do parcial\WpfElementsTree\WpfElementsTree\bin\Debug\WpfElementsTree.pdb
+C:\Users\rodri\Desktop\tareas 2do parcial\WpfElementsTree\WpfElementsTree\obj\Debug\MainWindow.g.cs
+C:\Users\rodri\Desktop\tareas 2do parcial\WpfElementsTree\WpfElementsTree\obj\Debug\App.g.cs
+C:\Users\rodri\Desktop\tareas 2do parcial\WpfElementsTree\WpfElementsTree\obj\Debug\WpfElementsTree_MarkupCompile.cache
+C:\Users\rodri\Desktop\tareas 2do parcial\WpfElementsTree\WpfElementsTree\obj\Debug\WpfElementsTree_MarkupCompile.lref
+C:\Users\rodri\Desktop\tareas 2do parcial\WpfElementsTree\WpfElementsTree\obj\Debug\MainWindow.baml
+C:\Users\rodri\Desktop\tareas 2do parcial\WpfElementsTree\WpfElementsTree\obj\Debug\WpfElementsTree.g.resources
+C:\Users\rodri\Desktop\tareas 2do parcial\WpfElementsTree\WpfElementsTree\obj\Debug\WpfElementsTree.Properties.Resources.resources
+C:\Users\rodri\Desktop\tareas 2do parcial\WpfElementsTree\WpfElementsTree\obj\Debug\WpfElementsTree.csproj.GenerateResource.cache
+C:\Users\rodri\Desktop\tareas 2do parcial\WpfElementsTree\WpfElementsTree\obj\Debug\WpfElementsTree.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\tareas 2do parcial\WpfElementsTree\WpfElementsTree\obj\Debug\WpfElementsTree.exe
+C:\Users\rodri\Desktop\tareas 2do parcial\WpfElementsTree\WpfElementsTree\obj\Debug\WpfElementsTree.pdb
